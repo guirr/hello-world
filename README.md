@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+Guirr here! hubot says he had tacos for lunch today.
